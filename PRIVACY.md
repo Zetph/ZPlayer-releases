@@ -43,6 +43,25 @@ Every one of these services sees your internet address, as any website
 does, and handles it under its own privacy policy. The Microsoft Store
 version does not contact GitHub; the Store updates it.
 
+## Your choices and your data
+
+- **Everything optional is off until you turn it on.** Scrobbling, Discord
+  status, and network sources do nothing until you set them up, and each
+  can be switched off or disconnected in Settings. Online lyrics lookup has
+  its own switch in Settings > Lyrics.
+- **Seeing your data.** It is all on your device, and the app shows it to
+  you: your library, playlists, history, and statistics. Settings > Backups
+  saves a copy of it in one file.
+- **Removing it.** Disconnecting a service or removing a network source
+  deletes its saved sign-in from your device. Uninstalling the app and
+  deleting its data folder removes everything else.
+- **Data held by other services.** Listens sent to Last.fm or ListenBrainz,
+  and anything shown through Discord, are held by those services under
+  your account with them. Use their own settings to view or delete it.
+- **How it is protected.** Sign-ins are kept in the operating system's
+  secure store. Connections to online services use HTTPS. For your own
+  servers, the app warns you when an address is not encrypted.
+
 ## What Zetph receives
 
 Nothing from the app. If you buy ZetPlayer from the Microsoft Store,
